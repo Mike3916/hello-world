@@ -1,5 +1,5 @@
 
-
+// Kyle Cullen was here.
 void setup() {
   // set digital pin 13 as output
   pinMode(9,INPUT);
@@ -24,9 +24,9 @@ void loop() {
   }
   else
   {
-    digitalWrite(10,HIGH);   //sets digital pin 10 low
-    digitalWrite(11,HIGH);   //sets digital pin 11 low
-    digitalWrite(12,HIGH);   //sets digital pin 12 low
+    digitalWrite(10,LOW);   //sets digital pin 10 low
+    digitalWrite(11,LOW);   //sets digital pin 11 low
+    digitalWrite(12,LOW);   //sets digital pin 12 low
   }
   
 }

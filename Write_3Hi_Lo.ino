@@ -1,5 +1,6 @@
 
 // Kyle Cullen was here.
+// Jon Hallowell 
 
 void setup() {
   // set digital pin 13 as output
